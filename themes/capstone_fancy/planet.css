@@ -14,7 +14,7 @@ h1 {
 	font-weight: normal;
 	letter-spacing: -2px;
 	text-transform: lowercase;
-	text-align: right;
+	text-align: left;
 
 	color: grey;
 }
@@ -77,6 +77,14 @@ img.face {
 
 .entry img {
         max-width: 100%;
+}
+
+.entry h3 {
+        font-family: "Bitstream Vera Sans", sans-serif;
+        font-weight: normal;
+        background-color: initial;
+        border: initial;
+        padding: initial;
 }
 
 .sidebar {
